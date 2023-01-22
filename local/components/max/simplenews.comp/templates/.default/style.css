@@ -1,0 +1,25 @@
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.tabs{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.tabs>div{
+    flex: 1;
+}
+
+.news>div{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #CCC;
+}
